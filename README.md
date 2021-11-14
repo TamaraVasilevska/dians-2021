@@ -1,2 +1,3 @@
-# dians-2021
-Software Design and Architecture project 
+# Pharmsquare
+Our goal is to build an app that uses location data to improve the access to pharmacies in Skopje.
+
